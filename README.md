@@ -11,8 +11,10 @@
      - CI/CD
      - Jenkins
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+      SOA, K8S
+
 - 📫 How to reach me ...
+- kaushalendra.kumar@outlook.com
 
 <!---
 kaushalendrakumar/kaushalendrakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
